@@ -1,0 +1,74 @@
+---
+title: "Resume - My Data Science Portfolio"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+navbar:
+  - text: "Home"
+    href: index.html
+  - text: "Resume"
+    href: resume.html
+  - text: "Blog"
+    href: blog.html
+editor: visual
+---
+
+# Resume
+
+## Education
+
+### Master of Science in Data Science
+
+**University of Data Science**\
+*September 2019 - June 2021*\
+- Thesis: Predictive Modeling in High Frequency Trading\
+- Coursework: Machine Learning, Statistical Analysis, Data Wrangling
+
+### Bachelor of Science in Applied Mathematics
+
+**Institute of Mathematics and Applications**\
+*September 2015 - June 2019*\
+- Graduated with Honors\
+- Coursework: Linear Algebra, Calculus, Probability, Statistics
+
+## Professional Experience
+
+### Senior Data Scientist
+
+**Innovatech Solutions**\
+*July 2021 - Present*\
+- Lead a team of data scientists to develop machine learning models that increased sales forecasts accuracy by 25%.\
+- Implemented a data governance strategy that improved data quality and accessibility.
+
+### Data Analyst Intern
+
+**Marketing Maven, Inc.**\
+*May 2020 - August 2020*\
+- Assisted in the development of an analytics dashboard that reduced report generation time by 40%.\
+- Conducted A/B testing analysis that increased customer engagement by 15%.
+
+## Skills
+
+-   **Programming**: Proficient in Python, R, and SQL\
+-   **Tools**: Experienced with Tableau, Excel, and TensorFlow\
+-   **Languages**: Fluent in English and Spanish
+
+## Projects
+
+### Retail Demand Forecasting
+
+Developed a predictive model to forecast demand for a retail chain, improving inventory management.
+
+### Customer Segmentation Analysis
+
+Performed clustering analysis to segment customers by purchasing behavior, which informed targeted marketing campaigns.
+
+## Certifications
+
+-   Certified Data Scientist, Data Science Global Association\
+-   Advanced Machine Learning, Coursera
+
+## Download My Resume
+
+[Download PDF](assets/resume.pdf) <!-- Make sure to provide the correct path to your resume PDF -->

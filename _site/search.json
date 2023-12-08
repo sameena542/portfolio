@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "I am a dedicated Data Scientist with a strong background in statistical analysis and machine learning. My journey in data science is marked by a relentless pursuit of knowledge and a commitment to solving complex problems.\n &lt;!-image –&gt;\n\n\n\nHere are some of the projects I have worked on:\n\nPredictive Modeling for Retail Sales\nCustomer Segmentation Analysis\nReal-time Dashboard for Social Media Trends\n\n\n\n\n\nEmail: name@example.com\nLinkedIn: My LinkedIn\nGitHub: My GitHub"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "I am a dedicated Data Scientist with a strong background in statistical analysis and machine learning. My journey in data science is marked by a relentless pursuit of knowledge and a commitment to solving complex problems.\n &lt;!-image –&gt;"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home - My Data Science Portfolio",
+    "section": "",
+    "text": "Programming Languages: Python, R, SQL\nMachine Learning: Regression, Classification, Clustering\nData Visualization: ggplot2, Matplotlib, Seaborn\nBig Data: Hadoop, Spark"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Here are some of the projects I have worked on:\n\nPredictive Modeling for Retail Sales\nCustomer Segmentation Analysis\nReal-time Dashboard for Social Media Trends"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Email: name@example.com\nLinkedIn: My LinkedIn\nGitHub: My GitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "University of Data Science\nSeptember 2019 - June 2021\n- Thesis: Predictive Modeling in High Frequency Trading\n- Coursework: Machine Learning, Statistical Analysis, Data Wrangling\n\n\n\nInstitute of Mathematics and Applications\nSeptember 2015 - June 2019\n- Graduated with Honors\n- Coursework: Linear Algebra, Calculus, Probability, Statistics\n\n\n\n\n\n\nInnovatech Solutions\nJuly 2021 - Present\n- Lead a team of data scientists to develop machine learning models that increased sales forecasts accuracy by 25%.\n- Implemented a data governance strategy that improved data quality and accessibility.\n\n\n\nMarketing Maven, Inc.\nMay 2020 - August 2020\n- Assisted in the development of an analytics dashboard that reduced report generation time by 40%.\n- Conducted A/B testing analysis that increased customer engagement by 15%.\n\n\n\n\n\nProgramming: Proficient in Python, R, and SQL\n\nTools: Experienced with Tableau, Excel, and TensorFlow\n\nLanguages: Fluent in English and Spanish\n\n\n\n\n\n\nDeveloped a predictive model to forecast demand for a retail chain, improving inventory management.\n\n\n\nPerformed clustering analysis to segment customers by purchasing behavior, which informed targeted marketing campaigns.\n\n\n\n\n\nCertified Data Scientist, Data Science Global Association\n\nAdvanced Machine Learning, Coursera\n\n\n\n\nDownload PDF"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "University of Data Science\nSeptember 2019 - June 2021\n- Thesis: Predictive Modeling in High Frequency Trading\n- Coursework: Machine Learning, Statistical Analysis, Data Wrangling\n\n\n\nInstitute of Mathematics and Applications\nSeptember 2015 - June 2019\n- Graduated with Honors\n- Coursework: Linear Algebra, Calculus, Probability, Statistics"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "Innovatech Solutions\nJuly 2021 - Present\n- Lead a team of data scientists to develop machine learning models that increased sales forecasts accuracy by 25%.\n- Implemented a data governance strategy that improved data quality and accessibility.\n\n\n\nMarketing Maven, Inc.\nMay 2020 - August 2020\n- Assisted in the development of an analytics dashboard that reduced report generation time by 40%.\n- Conducted A/B testing analysis that increased customer engagement by 15%."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "Programming: Proficient in Python, R, and SQL\n\nTools: Experienced with Tableau, Excel, and TensorFlow\n\nLanguages: Fluent in English and Spanish"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "Developed a predictive model to forecast demand for a retail chain, improving inventory management.\n\n\n\nPerformed clustering analysis to segment customers by purchasing behavior, which informed targeted marketing campaigns."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "Certified Data Scientist, Data Science Global Association\n\nAdvanced Machine Learning, Coursera"
+  },
+  {
+    "objectID": "resume.html#download-my-resume",
+    "href": "resume.html#download-my-resume",
+    "title": "Resume - My Data Science Portfolio",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Data Science Portfolio - Blog",
+    "section": "",
+    "text": "Posted on [Post Date]\n\n\nExploratory Data Analysis (EDA) is a crucial step in the data science workflow. It allows us to understand the structure of the data, identify potential errors, and formulate hypotheses for further analysis. In this blog post, we’ll conduct a step-by-step EDA on a dataset about air pollution using R.\n\n\n\nFirst, we need to load the dataset into R. We’ll use the read.csv() function for this purpose:\n# Load the dataset\ndata &lt;- read.csv(\"path/to/your/dataset.csv\")\n\n\n\nWith the data loaded, let’s look at the first few rows using the head() function:\n# View the first few rows of the dataset\nhead(data)\nNext, we’ll summarize the dataset to get a sense of the data’s distribution:\n# Summary statistics\nsummary(data)\n\n\n\n\nVisualizations are an integral part of EDA. We’ll use the ggplot2 package to create some plots. First, ensure the package is installed and then load it:\n# Install ggplot2 if you haven't already\ninstall.packages(\"ggplot2\")\n\n# Load the ggplot2 package\nlibrary(ggplot2)\n\n# Create a histogram of a variable\nggplot(data, aes(x=variable)) + \n  geom_histogram(binwidth=10)\n\nReplace variable with the actual variable name from your dataset you wish to analyze.\n\n\n\nThis post covered the basics of loading data, exploring it, and visualizing distributions with R. EDA is a broad field, and there are many more techniques to explore, but this guide should give you a solid start for your analysis on air pollution data."
+  },
+  {
+    "objectID": "blog.html#exploratory-data-analysis-on-air-pollution-dataset-using-r",
+    "href": "blog.html#exploratory-data-analysis-on-air-pollution-dataset-using-r",
+    "title": "Data Science Portfolio - Blog",
+    "section": "",
+    "text": "Posted on [Post Date]\n\n\nExploratory Data Analysis (EDA) is a crucial step in the data science workflow. It allows us to understand the structure of the data, identify potential errors, and formulate hypotheses for further analysis. In this blog post, we’ll conduct a step-by-step EDA on a dataset about air pollution using R.\n\n\n\nFirst, we need to load the dataset into R. We’ll use the read.csv() function for this purpose:\n# Load the dataset\ndata &lt;- read.csv(\"path/to/your/dataset.csv\")\n\n\n\nWith the data loaded, let’s look at the first few rows using the head() function:\n# View the first few rows of the dataset\nhead(data)\nNext, we’ll summarize the dataset to get a sense of the data’s distribution:\n# Summary statistics\nsummary(data)\n\n\n\n\nVisualizations are an integral part of EDA. We’ll use the ggplot2 package to create some plots. First, ensure the package is installed and then load it:\n# Install ggplot2 if you haven't already\ninstall.packages(\"ggplot2\")\n\n# Load the ggplot2 package\nlibrary(ggplot2)\n\n# Create a histogram of a variable\nggplot(data, aes(x=variable)) + \n  geom_histogram(binwidth=10)\n\nReplace variable with the actual variable name from your dataset you wish to analyze.\n\n\n\nThis post covered the basics of loading data, exploring it, and visualizing distributions with R. EDA is a broad field, and there are many more techniques to explore, but this guide should give you a solid start for your analysis on air pollution data."
+  }
+]

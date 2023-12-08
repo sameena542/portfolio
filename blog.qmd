@@ -1,0 +1,65 @@
+---
+title: "Data Science Portfolio - Blog"
+format:
+  html:
+    css: style.css
+---
+
+## Exploratory Data Analysis on Air Pollution Dataset Using R
+
+Posted on \[Post Date\]
+
+### Introduction
+
+Exploratory Data Analysis (EDA) is a crucial step in the data science workflow. It allows us to understand the structure of the data, identify potential errors, and formulate hypotheses for further analysis. In this blog post, we'll conduct a step-by-step EDA on a dataset about air pollution using R.
+
+### Loading the Data
+
+First, we need to load the dataset into R. We'll use the `read.csv()` function for this purpose:
+
+``` r
+# Load the dataset
+data <- read.csv("path/to/your/dataset.csv")
+```
+
+### Exploring the Data
+
+With the data loaded, let's look at the first few rows using the `head()` function:
+
+``` r
+# View the first few rows of the dataset
+head(data)
+```
+
+Next, we'll summarize the dataset to get a sense of the data's distribution:
+
+``` r
+# Summary statistics
+summary(data)
+```
+
+![](images/summary-01.jpeg)
+
+### Data Visualization
+
+Visualizations are an integral part of EDA. We'll use the `ggplot2` package to create some plots. First, ensure the package is installed and then load it:
+
+``` r
+# Install ggplot2 if you haven't already
+install.packages("ggplot2")
+
+# Load the ggplot2 package
+library(ggplot2)
+
+# Create a histogram of a variable
+ggplot(data, aes(x=variable)) + 
+  geom_histogram(binwidth=10)
+```
+
+![](images/histogram-01.jpeg)
+
+Replace `variable` with the actual variable name from your dataset you wish to analyze.
+
+### Conclusion
+
+This post covered the basics of loading data, exploring it, and visualizing distributions with R. EDA is a broad field, and there are many more techniques to explore, but this guide should give you a solid start for your analysis on air pollution data.
